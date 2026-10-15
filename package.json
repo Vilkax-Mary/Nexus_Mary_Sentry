@@ -1,0 +1,12 @@
+{
+  "name": "nexus-mary-sentry",
+  "version": "1.0.0",
+  "description": "Discord Bot developed by Vilkax Mary",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1"
+  }
+}
