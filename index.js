@@ -144,4 +144,4 @@ client.on('interactionCreate', async interaction => {
 });
 
 // ضع التوكن الخاص بك هنا
-client.login('MTU1OTM2MzgxMTI0NzY2MTE5Nw.GFexEm.JeVGC53Sy2afe-2XifR2FQmHR1b7yAH7DqjKgs');
+client.login(process.env.DISCORD_TOKEN);
