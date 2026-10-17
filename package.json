@@ -1,7 +1,7 @@
 {
-  "name": "nexus-mary-sentry",
+  "name": "vilkax-game-bot",
   "version": "1.0.0",
-  "description": "Discord Bot developed by Vilkax Mary",
+  "description": "Advanced Discord Gaming and Economy Bot",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
